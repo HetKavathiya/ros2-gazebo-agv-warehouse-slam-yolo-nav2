@@ -8,7 +8,7 @@
 
 Watch the complete simulation demonstrating the AGV robot and its capabilities.
 
-[▶ Watch the AGV Simulation Video](media/Video%20Project%202.mp4)
+[![AGV Warehouse Demo](https://img.youtube.com/vi/bXsn-yhT05Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=bXsn-yhT05Y)
 
 **Video file:** `media/Video Project 2.mp4`
 
