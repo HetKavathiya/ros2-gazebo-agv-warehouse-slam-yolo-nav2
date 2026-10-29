@@ -4,18 +4,10 @@
 
 **Robotics simulation project by a freelance robotics and computer vision engineer.** A 4-wheel AGV (automated guided vehicle / warehouse robot) that builds a 2D map with **LiDAR SLAM**, recognises objects with a custom-trained **YOLO** model, and drives itself to goals with **Nav2** while avoiding obstacles. Built with **ROS 2 Humble, Gazebo Harmonic, slam_toolbox, Nav2, AMCL, PyTorch and Ultralytics YOLO**.
 
-
 ## 🎥 AGV Warehouse Simulation Demo
 
-[![Watch the AGV Simulation](https://img.youtube.com/vi/bXsn-yhTO5Y/0.jpg)](https://youtu.be/bXsn-yhTO5Y)
+[![▶ Watch AGV Warehouse Simulation](https://img.youtube.com/vi/bXsn-yhTO5Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=bXsn-yhTO5Y)
 
-**Project:** ROS 2 AGV Warehouse Simulation  
-**Technologies:** ROS 2, SLAM, YOLO, Nav2, Gazebo
-
-Click the preview image above to watch the complete simulation.
-
-
-**Video file:** `media/Video Project 2.mp4`
 
 ---
 
