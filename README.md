@@ -171,7 +171,7 @@ Nav2 avoids obstacles with LiDAR costmaps (static map + live `/scan`); YOLO adds
 - **`colcon build` fails with `canonicalize_version`**: build with `PYTHONNOUSERSITE=1`
 - **YOLO environment problems**: run `python3 tools/check_yolo_env.py`
 
-## 💼 Freelance Robotics and Computer Vision Engineering
+## 💼 Robotics and Computer Vision Engineering
 
 I am available for freelance projects involving **Robotics, ROS 2, Gazebo simulation, SLAM, Nav2 autonomous navigation, LiDAR, YOLO, computer vision, and mobile robot development**.
 
