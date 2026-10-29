@@ -1,0 +1,11 @@
+# ROS 2 Build folders
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# Windows
+*Zone.Identifier

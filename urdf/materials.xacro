@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<robot name="agv_chassis" xmlns:xacro="http://www.ros.org/wiki/xacro" >
+
+  <!-- Chassis Color (Blue) -->
+  <material name="chassis_blue">
+    <color rgba="0.1 0.3 0.8 1.0"/>
+  </material>
+
+  <!-- Wheels Color (Black) -->
+  <material name="wheel_black">
+    <color rgba="0.1 0.1 0.1 1.0"/>
+  </material>
+
+  <!-- Sensors Color (Red) -->
+  <material name="sensor_red">
+    <color rgba="0.8 0.1 0.1 1.0"/>
+  </material>
+
+  <!-- Sensors Color (Black) -->
+  <material name="sensor_black">
+    <color rgba="0.1 0.1 0.1 1.0"/>
+  </material>
+</robot>
