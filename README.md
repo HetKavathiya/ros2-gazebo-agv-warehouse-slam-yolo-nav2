@@ -166,7 +166,7 @@ Nav2 avoids obstacles with LiDAR costmaps (static map + live `/scan`); YOLO adds
 
 1. Record images: `python3 $REPO/tools/frame_saver.py --ros-args -p use_sim_time:=true -p session:=layoutA -p out_dir:=$HOME/dataset/raw`
 2. Annotate (Roboflow, CVAT or Label Studio) and export in YOLO detection format
-3. Train with `training/warehouse_yolo_kaggle_train.ipynb` on a Kaggle T4 GPU, then copy `best.pt` to `agv_chassis_description/models/` and rebuild
+3. Train with `training/warehouse_yolo_kaggle_train.ipynb` on any GPU, then copy `best.pt` to `agv_chassis_description/models/` and rebuild
 
 ## Troubleshooting
 
