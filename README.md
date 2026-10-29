@@ -60,7 +60,7 @@ agv_nav/                   goto_goal.py (send goals), calibrate_rotation.py (odo
 tools/                     frame_saver.py (record training images), environment check scripts
 training/                  Kaggle notebook to train the YOLO detector
 maps/                      saved SLAM map (warehouse_map.yaml + .pgm)
-docs/                      project reports and demo media
+media/                      project reports and demo media
 ```
 
 ## 1. Installation
